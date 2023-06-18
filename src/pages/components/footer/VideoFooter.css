@@ -23,7 +23,7 @@
 }
 
 .videoFooterMusic__text p {
-  animation: moveTheText 3s infinite linear;
+  animation: moveTheText 6s infinite linear;
 }
 
 .videoFooter__record {
