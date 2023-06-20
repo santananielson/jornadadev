@@ -10,8 +10,7 @@ function VideoSidebar({ likes, messages, shares }) {
   const [liked, setLiked] = useState(false)
 
   function handdleLike() {
-    setLiked(!liked)
-
+    setLiked(!liked);
   }
 
   return (
